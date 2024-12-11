@@ -1,1 +1,2 @@
-*.cecremge.org.br
+cecremge.org.br
+static.google.com
