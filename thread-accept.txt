@@ -1,2 +1,3 @@
+//SCRIPT PABX VIVO
 gestaocontactcenter.vivo.com.br
 xmpp-client._tcp.ams.sc.gestaocontactcenter.vivo.com.br
