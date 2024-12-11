@@ -1,2 +1,1 @@
-cecremge.org.br
-static.google.com
+www.google.com
