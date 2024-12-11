@@ -1,3 +1,2 @@
 gestaocontactcenter.vivo.com.br
-187.50.251.32/28
 xmpp-client._tcp.ams.sc.gestaocontactcenter.vivo.com.br
